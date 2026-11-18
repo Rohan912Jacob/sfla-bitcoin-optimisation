@@ -59,9 +59,9 @@ The table below reproduces **saved notebook outputs for the main seed-42 test ex
 | Strategy | Final cash (USD) | Return |
 | --- | ---: | ---: |
 | Manual SMA 10/20 | 1,311.27 | 31.1% |
-| SFLA — SMA-only | 2,199.16 | 119.9% |
-| SFLA — combined moving averages | 1,659.49 | 65.9% |
-| CS — combined moving averages | 3,278.99 | 227.9% |
+| SFLA - SMA-only | 2,199.16 | 119.9% |
+| SFLA - combined moving averages | 1,659.49 | 65.9% |
+| CS - combined moving averages | 3,278.99 | 227.9% |
 | Buy-and-hold | 5,660.26 | 466.0% |
 
 **Main findings:**
@@ -107,6 +107,6 @@ The notebook includes data preparation, moving-average functions, the backtestin
 
 ## Context
 
-Completed as a four-person group project for **CITS4404 at the University of Western Australia**. This portfolio repository highlights **Rohan Varghese Jacob's SFLA contribution** while retaining the wider experiment for context.
+Completed as a four-person group project for **CITS4404 at the University of Western Australia**. This portfolio repository highlights **Rohan Jacob's SFLA contribution** while retaining the wider experiment for context.
 
 Research and educational use only; not a production trading system or investment recommendation.
